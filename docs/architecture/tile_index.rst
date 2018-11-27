@@ -3,6 +3,7 @@ Tile Type Index
 
 BANKREF
 ---------
+contain per-bank IO configuration for reference voltages and VccIO
 BANKREF0
 BANKREF1
 BANKREF2
@@ -47,7 +48,7 @@ CIB_PLL1
 CIB_PLL2
 CIB_PLL3
 
-CMUX_*
+CMUX
 -------
 CMUX_LL_0
 CMUX_LR_0
@@ -84,8 +85,8 @@ DSP_SPINE_UL1
 DSP_SPINE_UR0
 DSP_SPINE_UR1
 
-DTR
-----
+DTR - Digital Temperature Readout
+---------------------------------
 DTR
 
 DUMMY
